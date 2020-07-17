@@ -59,7 +59,12 @@ pattern during looping.
 http://www.trytoprogram.com/python-programming/python-closures/#introduction
 
 ### Other Resources ###
-https://pynative.com/python-range-function/
-https://pynative.com/python-basic-exercise-for-beginners/
-http://www.trytoprogram.com/python-programming/python-closures/#introduction
-https://towardsdatascience.com/8-advanced-python-tricks-used-by-seasoned-programmers-757804975802
+* https://pynative.com/python-range-function/  
+* https://pynative.com/python-basic-exercise-for-beginners/  
+* http://www.trytoprogram.com/python-programming/python-closures/#introduction  
+* https://towardsdatascience.com/8-advanced-python-tricks-used-by-seasoned-programmers-757804975802  
+
+### Coding style
+* https://www.python.org/dev/peps/pep-0008/  
+* https://docs.python-guide.org/writing/style/
+* https://google.github.io/styleguide/pyguide.html
