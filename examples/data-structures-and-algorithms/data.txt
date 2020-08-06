@@ -1,0 +1,5 @@
+python is cool
+python is great
+programming is nice
+Linux is cool
+a line of text without python
